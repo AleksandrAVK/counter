@@ -1,0 +1,41 @@
+
+.header {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+    margin: 25px;
+}
+.number {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 25px;
+}
+.container {
+    display: block;
+}
+
+.countBlock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.minus {
+width: 100px;
+height: 100px;
+background-color: cornflowerblue;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.plus {
+    width: 100px;
+    height: 100px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
